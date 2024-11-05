@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'HRX_DPS';
+  src:  url('fonts/HRX_DPS.eot?qwm8f4');
+  src:  url('fonts/HRX_DPS.eot?qwm8f4#iefix') format('embedded-opentype'),
+    url('fonts/HRX_DPS.ttf?qwm8f4') format('truetype'),
+    url('fonts/HRX_DPS.woff?qwm8f4') format('woff'),
+    url('fonts/HRX_DPS.svg?qwm8f4#HRX_DPS') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'HRX_DPS' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Grossing-60x60:before {
+  content: "\e121";
+}
+.icon-Sessioning-60x60:before {
+  content: "\e120";
+}
+.icon-Tissue-processing-60x60:before {
+  content: "\e122";
+}
+.icon-arcticons_borrowed-24x24:before {
+  content: "\e118";
+}
+.icon-Cassette-32x32:before {
+  content: "\e106";
+  color: #233d64;
+}
+.icon-ArrowCircleRight-32x32:before {
+  content: "\e107";
+}
+.icon-ArrowSquareOut-32x32:before {
+  content: "\e113";
+}
+.icon-Bell-32x32:before {
+  content: "\e112";
+}
+.icon-Check-60x60:before {
+  content: "\e119";
+  color: #188a42;
+}
+.icon-Computer-24x24:before {
+  content: "\e111";
+}
+.icon-Data-matrix-32x32:before {
+  content: "\e116";
+}
+.icon-File_Info-24x24:before {
+  content: "\e110";
+}
+.icon-fluent_scan-qr-code-24-regular-24x24:before {
+  content: "\e108";
+}
+.icon-FolderSimple-32x32:before {
+  content: "\e114";
+}
+.icon-In--Out-24x24_-open:before {
+  content: "\e104";
+}
+.icon-In--Out-24x24_close:before {
+  content: "\e105";
+}
+.icon-LinkBreak-24x24:before {
+  content: "\e109";
+}
+.icon-Microphone-24x24:before {
+  content: "\e100";
+}
+.icon-Microphone-32x32:before {
+  content: "\e101";
+}
+.icon-Microphone-40x40:before {
+  content: "\e102";
+}
+.icon-Play-32x32:before {
+  content: "\e115";
+}
+.icon-simple-line-icons_doc--16x16:before {
+  content: "\e103";
+}
+.icon-Waves-32x32:before {
+  content: "\e117";
+}
